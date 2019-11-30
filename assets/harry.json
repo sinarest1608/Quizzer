@@ -1,0 +1,88 @@
+[
+    {   
+        "1": "What patronus does Luna Lovegood have?",
+        "2": "Who disguised himself as Mad Eye Moody in The Goblet of Fire?",
+        "3": "What organization did Hermione start in her 4th year?",
+        "4": "What potion did Harry take in order to get Slughorn's memories?",
+        "5": "Who was the first to be stunned by the Basilisk?",
+        "6": "What did Dumbledore leave for Hermione in his will?",
+        "7": "Who did Ron turn into when Harry, Ron, and Hermione snuck into the Ministry of Magic in The Deathly Hallows?",
+        "8": "What magazine does Luna's father publish?",
+        "9": "Who is Harry's godson?",
+        "10": "What was the name of the female elf Dobby liked?"
+    },
+    {
+        "1": {
+            "a": "Rabbit",
+            "b": "Lion",
+            "c": "Stag",
+            "d": "Horse"
+        },
+        "2": {
+            "a": "Ernie McMillian",
+            "b": "Severus Snape",
+            "c": "Barty Crouch Jr.",
+            "d": "Barty Crouch Sr."
+        },
+        "3": {
+            "a": "Dumbeldore's Army",
+            "b": "Society for the Promotion of Elfish Welfare",
+            "c": "Wizards Against the Dark Arts",
+            "d": "Witches for Equal Rights"
+        },
+        "4": {
+            "a": "Alihosty Draught",
+            "b": "Essence of Dittany",
+            "c": "Polyjuice Potion",
+            "d": "Felix Felicis"
+        },
+        "5": {
+            "a": "Hermoine Granger",
+            "b": "Mrs. Norris",
+            "c": "Ginny Weasley",
+            "d": "Colin Creevey"
+        },
+        "6": {
+            "a": "An enchanted purse",
+            "b": "The Tales of Beedle the Bard",
+            "c": "A lighter",
+            "d": "A Bezoar"
+        },
+        "7": {
+            "a": "Reginald Cattermole",
+            "b": "Dirk Cresswell",
+            "c": "Albert Runcorn",
+            "d": "Mundungus Fletcher"
+        },
+        "8": {
+            "a": "The Quibbler",
+            "b": "The Daily Prophet",
+            "c": "The Practical Potioneer",
+            "d": "Challenges in Charming"
+        },
+        "9": {
+            "a": "Hugo Weasley",
+            "b": "Lorcan Scamander",
+            "c": "Teddy Lupin",
+            "d": "Victorie Weasley"
+        },
+        "10": {
+            "a": "Winky",
+            "b": "Orist",
+            "c": "Minka",
+            "d": "Oona"
+        }
+    },
+    {
+        "1": "Rabbit",
+        "2": "Barty Crouch Jr.",
+        "3": "Society for the Promotion of Elfish Welfare",
+        "4": "Felix Felicis",
+        "5": "Mrs. Norris",
+        "6": "The Tales of Beedle the Bard",
+        "7": "Reginald Cattermole",
+        "8": "The Quibbler",
+        "9": "Teddy Lupin",
+        "10": "Winky"
+    }
+]

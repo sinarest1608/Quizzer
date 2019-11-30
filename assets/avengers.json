@@ -1,0 +1,88 @@
+[
+    {   
+        "1": "WHERE IS WAKANDA LOCATED?",
+        "2": "WHAT IS THE NAME OF THE MARVEL COMIC LEGEND WHO HAS MADE AN APPEARANCE IN ALL THE FILMS OF THE MARVEL CINEMATIC UNIVERSE?",
+        "3": "THOR’S HAMMER MJÖLNIR IS MADE OF METAL FROM THE HEART OF A DYING WHAT?",
+        "4": "WHAT IS THE NAME OF THE VILLAIN IN ANT-MAN?",
+        "5": "WHAT IS THE NAME OF THE SET OF DOCUMENTS THAT REGULATE THE ACTIVITIES OF ENHANCED PERSONS?",
+        "6": "WHICH AVENGER DOES LOKI BRIEFLY TAKE THE FORM OF IN THOR: THE DARK WORLD?",
+        "7": "WHAT IS THE NAME OF STAR-LORD/PETER QUILL’S MOTHER?",
+        "8": "WHICH OF THE FOLLOWING IS NOT ON CAPTAIN AMERICA’S TO-DO LIST IN CAPTAIN AMERICA: THE WINTER SOLDIER?",
+        "9": "HOW DOES YONDU CONTROL THE YAKA ARROW?",
+        "10": "In the films, what does S.H.I.E.L.D. stand for?"
+    },
+    {
+        "1": {
+            "a": "South America",
+            "b": "Africa",
+            "c": "Antarctica",
+            "d": "Australia"
+        },
+        "2": {
+            "a": "Stan Lee",
+            "b": "Kevin Fiege",
+            "c": "Jon Favreau",
+            "d": "Steve Rogers"
+        },
+        "3": {
+            "a": "Asteroid",
+            "b": "Comet",
+            "c": "Star",
+            "d": "Black Hole"
+        },
+        "4": {
+            "a": "Scorpion",
+            "b": "Yellowjacket",
+            "c": "Hornet",
+            "d": "Serpent"
+        },
+        "5": {
+            "a": "Sokovia Accords",
+            "b": "Wakanda Accords",
+            "c": "Stark Accords",
+            "d": "Paris Accords"
+        },
+        "6": {
+            "a": "Hulk",
+            "b": "Captain America",
+            "c": "Iron Man",
+            "d": "Hawkeye"
+        },
+        "7": {
+            "a": "Margaret",
+            "b": "Martha",
+            "c": "Meredith",
+            "d": "Madeline"
+        },
+        "8": {
+            "a": "Disco",
+            "b": "Thai Food",
+            "c": "Miracle on Ice",
+            "d": "Moon Landing"
+        },
+        "9": {
+            "a": "By Whistling",
+            "b": "By Flicking his Wrist",
+            "c": "With telepathy",
+            "d": "By winking"
+        },
+        "10": {
+            "a": "Supreme Headquarters, International Espionage, Law-Enforcement Division",
+            "b": "Strategic Homeland Intervention, Enforcement and Logistics Division",
+            "c": "Strategic Hazard Intervention Espionage Logistics Directorate",
+            "d": "Superheroes Help In Exciting Logical Display"
+        }
+    },
+    {
+        "1": "Africa",
+        "2": "Stan Lee",
+        "3": "Star",
+        "4": "Yellowjacket",
+        "5": "Sokovia Accords",
+        "6": "Captain America",
+        "7": "Meredith",
+        "8": "Miracle on Ice",
+        "9": "By Whistling",
+        "10": "Strategic Homeland Intervention, Enforcement and Logistics Division"
+    }
+]

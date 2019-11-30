@@ -1,0 +1,88 @@
+[
+    {
+        "1": "What is the full name of the Third Hokage?",
+        "2": "On obtaining what, can Medical Ninjas discard the 3 Primary Clauses?",
+        "3": "Naruto got his name from?",
+        "4": "Which Ninken did Kakashi summon most frequently throughout the series?",
+        "5": "What Ability/Skill did Konan have?",
+        "6": "What is the Red Spiral symbol on the Jonin flak jackets reminiscent of?",
+        "7": "Which Bijuu could use the Lava(Fire + Earth) element?",
+        "8": "Name the Akatsuki member who looked like a shark, could transform into a shark and died to sharks?",
+        "9": "Who named Tsunade, Jiraiya and Orochimaru as the Legendary Sannin?",
+        "10": "Who holds the title of 'The Legendary Queen of Gluttony' at Ichiraku's Ramen shop?"
+    },
+    {
+        "1": {
+            "a": "Sarutobi Hiruzen",
+            "b": "Shimura Danzo",
+            "c": "The Professor",
+            "d": "Sarutobi Asuma"
+        },
+        "2": {
+            "a": "Insanely Strong Teammates",
+            "b": "The Hyakugo Seal",
+            "c": "The Edo-Tensei summoning Jutsu",
+            "d": "The Chibaku Tensei Seal"
+        },
+        "3": {
+            "a": "Fish Cake Rolls(the ones with pink spirals) used in Ramen",
+            "b": "The Uzumaki clan's Head",
+            "c": "The Protagonist of 'The Tale of the Utterly Gutsy Ninja'",
+            "d": "The Third Hokage"
+        },
+        "4": {
+            "a": "Bull",
+            "b": "Bisuke",
+            "c": "Pakkun",
+            "d": "Urushi"
+        },
+        "5": {
+            "a": "The Rinnegan",
+            "b": "Dust Release Technique",
+            "c": "Kenjutsu",
+            "d": "Paper Manipulation"
+        },
+        "6": {
+            "a": "The Fire Country",
+            "b": "The Uzumaki Crest",
+            "c": "Konohagakure Village",
+            "d": "The Uchiha Crest"
+        },
+        "7": {
+            "a": "Kokuo",
+            "b": "Isobu",
+            "c": "Chomei",
+            "d": "Son Goku"
+        },
+        "8": {
+            "a": "Kyusuke",
+            "b": "Deidara",
+            "c": "Kakuzu",
+            "d": "Hoshigaki Kisame"
+        },
+        "9": {
+            "a": "Oni no Hanzo",
+            "b": "Sarutobi Hiruzen",
+            "c": "Sanshouo no Hanzo",
+            "d": "Hattori Hanzo"
+        },
+        "10": {
+            "a": "Sakura",
+            "b": "Hinata",
+            "c": "Temari",
+            "d": "Karui"
+        }
+    },
+    {
+        "1": "Sarutobi Hiruzen",
+        "2": "The Hyakugo Seal",
+        "3": "The Protagonist of 'The Tale of the Utterly Gutsy Ninja'",
+        "4": "Pakkun",
+        "5": "Paper Manipulation",
+        "6": "The Uzumaki Crest",
+        "7": "Son Goku",
+        "8": "Hoshigaki Kisame",
+        "9": "Sanshouo no Hanzo",
+        "10": "Hinata"
+    }
+]

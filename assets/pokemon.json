@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which of the following Pokemon type was not available in GEN-1?",
+        "2": "What item must be obtained in order to catch Lugia in Whirl Islands?",
+        "3": "What is Regigigas' ability?",
+        "4": "Find the odd one out?",
+        "5": "The Elite-Four trainer Shauntal specializes in what type of Pokemons?",
+        "6": "Find the odd one out?",
+        "7": "In Pokemon the anime Sun and Moon, what move did Dusk-Lycanroc used to defeat Lycanroc(Midnight Form) in the Alola league finals?",
+        "8": "An item which evolves Clamperl to Gorebyss when equipped and traded",
+        "9": "What Pokemon type is Corsola?",
+        "10": "Find the odd one out?"
+    },
+    {
+        "1": {
+            "a": "Psychic",
+            "b": "Dark",
+            "c": "Dragon",
+            "d": "Ground"
+        },
+        "2": {
+            "a": "Rainbow Wing",
+            "b": "Lustrous Orb",
+            "c": "Silver Wing",
+            "d": "Sacred Ash"
+        },
+        "3": {
+            "a": "Wonder Guard",
+            "b": "Huge Power",
+            "c": "Protean",
+            "d": "Slow Start"
+        },
+        "4": {
+            "a": "Heatran",
+            "b": "Darkrai",
+            "c": "Azelf",
+            "d": "Palkia"
+        },
+        "5": {
+            "a": "Ghost",
+            "b": "Dark",
+            "c": "Psychic",
+            "d": "Fighting"
+        },
+        "6": {
+            "a": "Torrent",
+            "b": "Protean",
+            "c": "Rain Dish",
+            "d": "Battle Bond"
+        },
+        "7": {
+            "a": "Stone Edge",
+            "b": "Counter",
+            "c": "Splintered Stormshards",
+            "d": "Continental Crush"
+        },
+        "8": {
+            "a": "Deep Sea Tooth",
+            "b": "Deep Sea Scale",
+            "c": "Water Stone",
+            "d": "Sun Stone"
+        },
+        "9": {
+            "a": "Rock and Water",
+            "b": "Water",
+            "c": "Water and Ice",
+            "d": "Ice"
+        },
+        "10": {
+            "a": "Fissure",
+            "b": "Guillotine",
+            "c": "Sheer Cold",
+            "d": "Brave Bird"
+        }
+    },
+    {
+        "1": "Dark",
+        "2": "Silver Wing",
+        "3": "Slow Start",
+        "4": "Darkrai",
+        "5": "Ghost",
+        "6": "Rain Dish",
+        "7": "Counter",
+        "8": "Deep Sea Scale",
+        "9": "Rock and Water",
+        "10": "Brave Bird"
+    }
+]
