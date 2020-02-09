@@ -1,6 +1,6 @@
 # quizer
 
-A new Flutter project.
+a Multiple Trivia Mobile application.
 
 ## Getting Started
 
